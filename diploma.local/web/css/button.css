@@ -1,0 +1,7 @@
+#chetyre1:checked ~ .Green2 {
+display:none;
+}
+
+#chetyre2:checked ~ .Green1 {
+display:none;
+}

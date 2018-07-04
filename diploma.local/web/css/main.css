@@ -1,0 +1,12 @@
+.bg-color {
+  height: 100%;
+  background-color: #e6ffee;
+}
+.error {
+color: red;
+}
+
+.height_div {
+height: 600px;
+overflow-y: scroll;
+}

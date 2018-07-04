@@ -1,0 +1,16 @@
+{
+    "require": {
+        "silex/silex": "^2.2",
+        "twig/twig": "^2.4",
+        "doctrine/dbal": "~2.2"
+    },
+	"autoload": {
+    "psr-4": {
+      "doctor_controllers\\": "web",
+	  "system_accepting_decision\\": "web"
+
+    }
+  }
+}
+
+
